@@ -1,0 +1,58 @@
+#division1{
+    background-color: royalblue;
+    color: white;
+    margin: 30px;
+    padding: 30px;
+    border-radius: 20px;
+}
+#division1:hover{
+    background-color: grey;
+}
+.mydivision{
+    border-radius: 20px;
+    background-color: lawngreen;
+    color: white;
+    margin: 30px;
+    padding: 30px;
+    margin-top: 60px;
+}
+.mydivision:hover{
+    background-color: grey;
+}
+
+
+
+.main{
+    display: flex;
+    margin-top: 60px;
+}
+.course{
+    text-align: center;
+}
+#course1{
+    margin: 20px;
+    padding: 20px;
+    background-color: green;
+    border-radius: 20px;
+}
+#course2{
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+    background-color: yellow;
+}
+#course3{
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+    background-color: royalblue;
+}
+#course1:hover{
+    background-color: #555555;
+}
+#course2:hover{
+    background-color: #555555;
+}
+#course3:hover{
+    background-color: #555555;
+}

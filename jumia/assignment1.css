@@ -1,0 +1,51 @@
+.maindivision1{
+    display: flex;
+
+}
+h1{
+    text-align: center;
+    font-size: 20px;
+
+
+}
+.learnmore{
+    background-color: green;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+    width: 100px;
+    margin-left: 160px;
+
+
+}
+img{
+    width: 300px;
+    height: 200px;
+}
+p{
+    text-align: center;
+    font-weight: lighter;
+    font-size: 15px;
+    margin-left: 58px;
+    margin-right: 58px;
+}
+#div1{
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border: 20px;
+    box-shadow: #555555;
+
+}
+#div2{
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+}
+#div3{
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+}
+
+
